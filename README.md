@@ -1,0 +1,2 @@
+# basicAll
+kumpulan short code
